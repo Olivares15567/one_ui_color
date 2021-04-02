@@ -15,6 +15,6 @@ git clone https://github.com/Olivares15567/one_ui_color.git
 Open html file in browser
 
 
-Final Project below:
+Final Project below
 
-<img src="img/snapshot.png">
+<img src="./img/2021-03-22.png" >
